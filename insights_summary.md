@@ -3,7 +3,7 @@
 To analyze trader performance (Closed PnL) under varying market sentiment conditions (Fear/Greed) and generate actionable trading insights.
 
 📈 Average Trader PnL by Sentiment:
-Sentiment	Avg Closed PnL
+Sentiment	and Avg Closed PnL :
 Extreme Greed	₹67.89
 Fear	₹54.29
 Greed	₹42.74
